@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "files": [
-            "src/helpers.php"
+            "src/Notify.php"
         ]
     }
 }

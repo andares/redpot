@@ -1,0 +1,20 @@
+{
+    "name": "andares/redpot",
+    "description": "red point func with redis",
+    "type": "library",
+    "require": {
+        "ext-redis": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andares Merigold",
+            "email": "andares@outlook.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}

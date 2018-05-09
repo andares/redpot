@@ -3,7 +3,6 @@
     "description": "red point func with redis",
     "type": "library",
     "require": {
-        "ext-redis": "^3.1"
     },
     "license": "MIT",
     "authors": [
